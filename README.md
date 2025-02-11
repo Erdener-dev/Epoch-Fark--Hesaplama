@@ -28,8 +28,6 @@ Bu program:
 
 ## **Nasıl Kullanılır?**
 
-### 1. Kodun Derlenmesi
-C programını derlemek için terminalde şu komutu çalıştırın:
-```sh
 gcc epoch_farki.c -o epoch_farki
-ki.c -o epoch_farki
+./epoch_farki
+
